@@ -48,7 +48,6 @@ XAMPP could be used to fill the PHP, and MySQL requirements, just be aware of ha
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/AndyO97/reference-letters-app
-   cd reference-management-system
 
     The repository is currently private. 
 
